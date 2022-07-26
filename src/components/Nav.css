@@ -3,9 +3,10 @@
 
 
 .navbar {
-  color:#ffe4e1;
+  color:#738276;
   font-size: large;
   font-family: 'Kaisei Opti', serif;
+  background-image: url(/public/portfolio-bg.png);
 }
 a:hover {
   text-decoration: underline;

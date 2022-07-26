@@ -1,9 +1,9 @@
 import React, {useState} from 'react';
 import Navigation from './components/Navigation'
-import Home from './pages/Home'
-import About from './pages/About'
-import Contact from './pages/Contact'
-import Resume from './pages/Resume'
+import Home from './Home'
+import About from './About'
+import Contact from './Contact'
+import Resume from './Resume'
 // Here we destructure our props into their own distinct variables
 export default function Welcome({ loggedIn, setLoggedIn }) {
   // Lets log our our loggedIn variable to see it change in real time
