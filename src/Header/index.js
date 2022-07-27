@@ -9,13 +9,11 @@ function Header () {
     <p> I'm <span className="my-name">Jala</span>. Welcome to my space.</p>
     </div>
     <div className="about-me">
-    <div className="d-flex justify-content-center">
+    <div className="d-flex justify-content-center ms-5">
       <img className="img-fluid" src={jala} alt="girl sitting on mountain"></img>
     </div>
-    <section>
     <h1 className="about">About Me</h1>
     <p className="about-text">lorem ipsum test test test</p>
-    </section>
   </div>
     </>
   )

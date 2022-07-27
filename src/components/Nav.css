@@ -4,12 +4,12 @@
 
 .navbar {
   color:#738276;
-  font-size: large;
+  font-size: 20px;
   font-family: 'Kaisei Opti', serif;
   background-image: url(/public/portfolio-bg.png);
 }
 a:hover {
   text-decoration: underline;
   text-decoration-color: #dee8eb;
-  text-decoration-thickness: 20px;
+  text-decoration-thickness: 5px;
 }
