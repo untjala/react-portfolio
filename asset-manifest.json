@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.ce50ce89.css",
-    "main.js": "/static/js/main.d90a9db7.js",
-    "static/media/mountain-jala.png": "/static/media/mountain-jala.34000772054dbe1a623c.png",
-    "static/media/food.png": "/static/media/food.4644272cebfeecee742c.png",
-    "static/media/word.png": "/static/media/word.326af703f76cedfe5bb9.png",
-    "static/media/unterreiner-jala.pdf": "/static/media/unterreiner-jala.e8dc82864ceed67930eb.pdf",
-    "static/media/portfolio-bg.png": "/static/media/portfolio-bg.f38f6d5e48ee86e4be4f.png",
-    "static/media/team.png": "/static/media/team.5acae78a35241a9613b3.png",
-    "index.html": "/index.html",
-    "main.ce50ce89.css.map": "/static/css/main.ce50ce89.css.map",
-    "main.d90a9db7.js.map": "/static/js/main.d90a9db7.js.map"
+    "main.css": "/untjala/react-portfolio/static/css/main.c490a435.css",
+    "main.js": "/untjala/react-portfolio/static/js/main.138d9500.js",
+    "static/media/mountain-jala.png": "/untjala/react-portfolio/static/media/mountain-jala.34000772054dbe1a623c.png",
+    "static/media/food.png": "/untjala/react-portfolio/static/media/food.4644272cebfeecee742c.png",
+    "static/media/word.png": "/untjala/react-portfolio/static/media/word.326af703f76cedfe5bb9.png",
+    "static/media/unterreiner-jala.pdf": "/untjala/react-portfolio/static/media/unterreiner-jala.e8dc82864ceed67930eb.pdf",
+    "static/media/portfolio-bg.png": "/untjala/react-portfolio/static/media/portfolio-bg.f38f6d5e48ee86e4be4f.png",
+    "static/media/team.png": "/untjala/react-portfolio/static/media/team.5acae78a35241a9613b3.png",
+    "index.html": "/untjala/react-portfolio/index.html",
+    "main.c490a435.css.map": "/untjala/react-portfolio/static/css/main.c490a435.css.map",
+    "main.138d9500.js.map": "/untjala/react-portfolio/static/js/main.138d9500.js.map"
   },
   "entrypoints": [
-    "static/css/main.ce50ce89.css",
-    "static/js/main.d90a9db7.js"
+    "static/css/main.c490a435.css",
+    "static/js/main.138d9500.js"
   ]
 }
