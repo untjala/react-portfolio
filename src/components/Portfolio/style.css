@@ -1,6 +1,6 @@
 .portfolio-header {
-  background-image: url(/public/portfolio-bg.png);
   text-align: center;
+  background-color: #e8e7e3;
 }
 .portfolio-cards {
   padding-top: 100px;
@@ -9,7 +9,7 @@
   height: 100vh;
   font-size: large;
   column-count: 3;
-  background-color: #dfd3cb;
+  background-color: #e8e7e3;
 }
 
 .card-img {

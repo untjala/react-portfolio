@@ -2,9 +2,13 @@
 
 .header {
   background-image: url(/public/succulent.jpeg);
+  background-position: bottom right;
+  background-color: #e8e7e3;
   padding-bottom: 5px;
   padding-bottom: 20px;
-  background-size: cover;
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 100%;
 }
 .intro {
   font-size: 200px;
@@ -18,7 +22,7 @@
 
 p {
   padding-bottom: 40px;
-  font-size: 40px;
+  font-size: 30px;
   color: #738276;
   text-align: left;
   font-family: 'Poppins, sans-serif';
@@ -28,13 +32,17 @@ p {
 }
 .about-me{
   background-color:#e8e7e3;
-  min-height: 100vh;
-  display: flex;
+  display: grid;
+  grid-template-columns: auto;
+  grid-template-rows: auto;
+  grid-template-areas: "photo title"
+  "photo paragraph";
   align-items: center;
   flex-wrap: wrap;
   overflow: hidden;
 }
 img {
+  grid-area: photo;
   width: 300px;
   height: 300px;
   margin: 40px 20px 20px 20px;
@@ -43,11 +51,14 @@ img {
   border-radius: 10px;
 }
 .about {
+  grid-area: title;
   color: #738276;
   text-align: center;
+  font-size: 35px;
 }
 .about-text {
+  grid-area: paragraph;
   text-align: center;
   color: #738276 ;
-  font-size: 35px;
+  font-size: 30px;
 }

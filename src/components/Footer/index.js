@@ -10,10 +10,10 @@ function Footer() {
     </footer>
     <div className="icon">
         <a href="https://www.linkedin.com/in/jala-unterreiner-05171b246/">
-            <FaLinkedin />
+            <FaLinkedin size={32} color={"white"} />
         </a>
         <a href="https://github.com/untjala" >
-            <FaGithub className="git"/>
+            <FaGithub size={32} color={"white"}/>
         </a>
     </div>
     </div>
