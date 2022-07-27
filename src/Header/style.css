@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+.header {
+  background-image: url(/public/portfolio-bg.png);
+  padding-bottom: 5px;
+}
+.intro {
+  font-size: 200px;
+  color: #9ba870;
+  font-family: 'Poppins, sans-serif';
+  text-align: center;
+}
+
+p {
+  padding-bottom: 40px;
+  font-size: 30px;
+  color: white;
+  text-align: center;
+}
+.my-name {
+  color: #738276;
+}
+.about-me {
+  background-color:#c7ceae;
+  height: 100vh;
+  padding-top: 0px;
+}
+img {
+  width: 200px;
+  height: 200px;
+  align-items: center;
+  margin-top: 40px;
+}
+.about {
+  color: #dee8eb;
+  text-align: center;
+}
+.about-text {
+  text-align: center;
+  color: #738276 ;
+}
