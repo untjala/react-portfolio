@@ -22,7 +22,7 @@
 
 p {
   padding-bottom: 40px;
-  font-size: 30px;
+  font-size: 25px;
   color: #738276;
   text-align: left;
   font-family: 'Poppins, sans-serif';
@@ -54,11 +54,12 @@ img {
   grid-area: title;
   color: #738276;
   text-align: center;
-  font-size: 35px;
+  font-size: 30px;
 }
 .about-text {
   grid-area: paragraph;
   text-align: center;
   color: #738276 ;
-  font-size: 30px;
+  font-size: 25px;
+  font-family: 'Poppins, sans-serif';
 }

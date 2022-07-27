@@ -17,6 +17,19 @@ h2 {
   text-align: center;
   padding-top: 50px;
 }
+h3 {
+  font-size: 20px;
+  color: white;
+  font-family: 'Poppins, sans-serif';
+  padding-top: 50px;
+}
+ul {
+  font-size: 20px;
+  color: #9ba870;
+  font-family: 'Poppins, sans-serif';
+  padding-top: 50px;
+  list-style-type: circle;
+}
 .resume:hover {
   text-decoration: underline;
   text-decoration-color: #dee8eb;

@@ -11,7 +11,7 @@ function Header() {
       <div className="about-me">
         <img className="img-fluid" src={jala} alt="girl sitting on mountain"></img>
         <h1 className="about">About Me</h1>
-        <p className="about-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam iusto ab molestiae labore consequuntur tempore nulla magnam possimus facere unde maiores aut sint modi distinctio.</p>
+        <p className="about-text">Hi there! I'm a full-stack web developer currently focused on JavaScript. I am also interested in game development through pixieJS and creating command line applications. As a developer, I am constantly looking at how things are implemented and asking how they can be smoother, faster, and more user friendly. I have a background in English and education and enjoy using these skills to express my creativity and to guide others on my team towards a common solution. </p>
       </div>
     </div>
   )
