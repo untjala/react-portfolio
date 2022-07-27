@@ -1,0 +1,15 @@
+.contact-page {
+  background-color: #dfd3cb;
+  height: 100vh;
+}
+h1 {
+  font-size: 25px;
+  color: #738276;
+  font-family: 'Poppins, sans-serif';
+  padding-top: 50px;
+}
+.error-text {
+  font-size: 25px;
+  color: #738276;
+  font-family: 'Poppins, sans-serif';
+}

@@ -1,5 +1,5 @@
 import React, {useState} from 'react'
-
+import './style.css'
 import { validateEmail } from '../utils/helpers';
 
 function Contact () {
@@ -36,6 +36,7 @@ function Contact () {
   };
 
   return (
+    <div className="contact-page">
     <div className= "container">
       <h1>Let's chat.</h1>
       <form className="form">
@@ -65,6 +66,7 @@ function Contact () {
           <p className="error-text">{errorMessage}</p>
         </div>
       )}
+    </div>
     </div>
   );
 }

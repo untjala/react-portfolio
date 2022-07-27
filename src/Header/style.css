@@ -3,6 +3,7 @@
 .header {
   background-image: url(/public/portfolio-bg.png);
   padding-bottom: 5px;
+  padding-bottom: 20px;
 }
 .intro {
   font-size: 200px;
