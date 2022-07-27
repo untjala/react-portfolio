@@ -24,15 +24,18 @@ p {
 }
 .about-me {
   background-color:#c7ceae;
-  height: 100vh;
-  padding-top: 0px;
+  min-height: 100vh;
   justify-content: center;
+  overflow: hidden;
 }
 img {
   width: 300px;
   height: 300px;
   align-items: center;
   margin-top: 40px;
+  border-style: solid;
+  border-color: #dee8eb;
+  border-radius: 10px;
 }
 .about {
   color: #dee8eb;
@@ -41,4 +44,5 @@ img {
 .about-text {
   text-align: center;
   color: #738276 ;
+  font-size: 35px;
 }
