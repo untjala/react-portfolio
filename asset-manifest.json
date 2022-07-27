@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.6f249c66.css",
-    "main.js": "/react-portfolio/static/js/main.6fa863bc.js",
+    "main.css": "/react-portfolio/static/css/main.61b8ad27.css",
+    "main.js": "/react-portfolio/static/js/main.2ee89325.js",
     "static/media/mountain-jala.png": "/react-portfolio/static/media/mountain-jala.34000772054dbe1a623c.png",
     "static/media/food.png": "/react-portfolio/static/media/food.4644272cebfeecee742c.png",
     "static/media/word.png": "/react-portfolio/static/media/word.326af703f76cedfe5bb9.png",
     "static/media/unterreiner-jala.pdf": "/react-portfolio/static/media/unterreiner-jala.e8dc82864ceed67930eb.pdf",
     "static/media/portfolio-bg.png": "/react-portfolio/static/media/portfolio-bg.f38f6d5e48ee86e4be4f.png",
     "static/media/team.png": "/react-portfolio/static/media/team.5acae78a35241a9613b3.png",
+    "static/media/succulent.jpeg": "/react-portfolio/static/media/succulent.fd40fbff18f032af0185.jpeg",
     "index.html": "/react-portfolio/index.html",
-    "main.6f249c66.css.map": "/react-portfolio/static/css/main.6f249c66.css.map",
-    "main.6fa863bc.js.map": "/react-portfolio/static/js/main.6fa863bc.js.map"
+    "main.61b8ad27.css.map": "/react-portfolio/static/css/main.61b8ad27.css.map",
+    "main.2ee89325.js.map": "/react-portfolio/static/js/main.2ee89325.js.map"
   },
   "entrypoints": [
-    "static/css/main.6f249c66.css",
-    "static/js/main.6fa863bc.js"
+    "static/css/main.61b8ad27.css",
+    "static/js/main.2ee89325.js"
   ]
 }
