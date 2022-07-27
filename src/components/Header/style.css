@@ -63,3 +63,8 @@ img {
   font-size: 25px;
   font-family: 'Poppins, sans-serif';
 }
+.text-card {
+  background-color: #e8e7e3!important;
+  border-color: #e8e7e3!important;
+  color: #738276;
+}
