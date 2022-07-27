@@ -1,6 +1,6 @@
 import React, {useState} from 'react'
 import './style.css'
-import { validateEmail } from '../utils/helpers';
+import { validateEmail } from '../../utils/helpers';
 
 function Contact () {
   const [email, setEmail] = useState('');

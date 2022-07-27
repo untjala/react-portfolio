@@ -1,5 +1,5 @@
 import React from 'react';
-import '../components/Nav.css'
+import './style.css'
 
 function Navigation({ setPage }) {
 return (

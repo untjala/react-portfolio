@@ -15,11 +15,12 @@
 p {
   padding-bottom: 40px;
   font-size: 40px;
-  color: #738276;
+  color: black;
   text-align: left;
+  font-family: 'Poppins, sans-serif';
 }
 .my-name {
-  color:white;
+  color:#9ba870;
 }
 .about-me {
   background-color:#c7ceae;
