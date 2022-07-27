@@ -42,6 +42,12 @@ function Contact () {
       <form className="form">
         <input
           className="form-control mb-3"
+          name="name"
+          type="text"
+          placeholder="name"
+        />
+        <input
+          className="form-control mb-3"
           value={email}
           name="email"
           onChange={handleInputChange}
