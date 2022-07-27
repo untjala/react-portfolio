@@ -13,4 +13,4 @@ This project still needs minor tweaks -- changes are being made to the portfolio
  * [GitHub Pages](https://untjala.github.io/react-portfolio/)
 
 ## Contact
-Questions? Ideas? Contributions? Feel free to reach or check out some of my other projects at: **https://github.com/untjala**
+Questions? Ideas? Contributions? Feel free to reach out or check out some of my other projects at: **https://github.com/untjala**
