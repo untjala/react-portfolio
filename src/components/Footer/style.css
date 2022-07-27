@@ -1,5 +1,5 @@
 .footer-container{
-  background-color: #dfd3cb ;
+  background-color: #c7ceae ;
 }
 .footer h1 {
   text-align: center;
@@ -7,4 +7,7 @@
 }
 .icon {
   text-align: center;
+}
+.git {
+  width: 100px;
 }

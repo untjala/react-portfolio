@@ -1,44 +1,49 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
 .header {
-  background-image: url(/public/portfolio-bg.png);
+  background-image: url(/public/succulent.jpeg);
   padding-bottom: 5px;
   padding-bottom: 20px;
+  background-size: cover;
 }
 .intro {
   font-size: 200px;
-  color: #9ba870;
+  color: #738276;
   font-family: 'Poppins, sans-serif';
   text-align: left;
+}
+.period {
+  color: white;
 }
 
 p {
   padding-bottom: 40px;
   font-size: 40px;
-  color: black;
+  color: #738276;
   text-align: left;
   font-family: 'Poppins, sans-serif';
 }
 .my-name {
-  color:#9ba870;
+  color:white;
 }
-.about-me {
-  background-color:#c7ceae;
+.about-me{
+  background-color:#e8e7e3;
   min-height: 100vh;
-  justify-content: center;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
   overflow: hidden;
 }
 img {
   width: 300px;
   height: 300px;
-  align-items: center;
-  margin-top: 40px;
+  margin: 40px 20px 20px 20px;
   border-style: solid;
-  border-color: #dee8eb;
+  border-color:#738276 ;
   border-radius: 10px;
 }
 .about {
-  color: #dee8eb;
+  color: #738276;
   text-align: center;
 }
 .about-text {

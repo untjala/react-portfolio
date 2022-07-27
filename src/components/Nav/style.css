@@ -1,14 +1,13 @@
 @import url('https://fonts.googleapis.com/css?family=Kaisei+Opti');
 @import url('https://fonts.googleapis.com/css?family=Poppins');
-
 .navbar {
-  color:#738276;
+  color:white;
   font-size: 20px;
   font-family: 'Kaisei Opti', serif;
-  background-color: #dfd3cb;
+  background-color: #c7ceae;
 }
 a:hover {
   text-decoration: underline;
-  text-decoration-color: #dee8eb;
+  text-decoration-color:#dee8eb;
   text-decoration-thickness: 5px;
 }
