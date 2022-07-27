@@ -13,7 +13,7 @@ function Header () {
       <img className="img-fluid" src={jala} alt="girl sitting on mountain"></img>
     </div>
     <h1 className="about">About Me</h1>
-    <p className="about-text">lorem ipsum test test test</p>
+    <p className="about-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam iusto ab molestiae labore consequuntur tempore nulla magnam possimus facere unde maiores aut sint modi distinctio.</p>
   </div>
     </>
   )

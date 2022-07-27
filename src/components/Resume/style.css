@@ -1,0 +1,25 @@
+.resume-page {
+  background-color: #dfd3cb;
+  height: 100vh;
+}
+.resume {
+  text-decoration: none;
+  font-size: 25px;
+  color: #9ba870;
+  font-family: 'Poppins, sans-serif';
+  text-align: left;
+  padding-top: 50px;
+}
+h2 {
+  font-size: 25px;
+  color: #9ba870;
+  font-family: 'Poppins, sans-serif';
+  text-align: center;
+  padding-top: 50px;
+}
+.resume:hover {
+  text-decoration: underline;
+  text-decoration-color: #dee8eb;
+  text-decoration-thickness: 5px;
+  color: #9ba870;
+}

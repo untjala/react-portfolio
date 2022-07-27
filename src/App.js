@@ -3,7 +3,8 @@ import Navigation from './components/Nav/index'
 import Home from './components/Header/index'
 import Contact from './components/Contact/index'
 import Resume from './components/Resume/index'
-import Portfolio from './components/Portfolio';
+import Portfolio from './components/Portfolio/index';
+import Footer from './components/Footer/index'
 // Here we destructure our props into their own distinct variables
 export default function App ({ loggedIn, setLoggedIn }) {
   // Lets log our our loggedIn variable to see it change in real time
