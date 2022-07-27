@@ -22,6 +22,7 @@ export default function App ({ loggedIn, setLoggedIn }) {
       <> 
       <Navigation setPage ={setPage}/>
       <CurrentPage />
+      <Footer />
       </>
     );
   }
