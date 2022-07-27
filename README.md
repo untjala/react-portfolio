@@ -3,7 +3,7 @@
 For this challenge, my goal was to build a single page portfolio using React.js. I used Bootstrap for page styling, and deployed using GitHub pages.
 
 ## Visuals 
-![Site](public/React-App.png)
+![Site]
 
 ## Future Implementations 
 This project still needs minor tweaks -- changes are being made to the styling of the portfolio cards.
