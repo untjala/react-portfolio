@@ -41,7 +41,7 @@ p {
   flex-wrap: wrap;
   overflow: hidden;
 }
-img {
+.me {
   grid-area: photo;
   width: 300px;
   height: 300px;
